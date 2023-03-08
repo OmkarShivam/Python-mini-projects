@@ -1,3 +1,3 @@
 # Python-mini-projects
 
-These are the basic mini project I created during the learning Process.
+These are the basic mini projects I made during the learning Process.
